@@ -1,0 +1,14 @@
+C:\Users\joaag\OneDrive\Escritorio\2do TSDS\Programacion2024\Programacion1\EjerciciosDePrueba1\EjerciciosDePrueba1\obj\Debug\net8.0\EjerciciosDePrueba1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joaag\OneDrive\Escritorio\2do TSDS\Programacion2024\Programacion1\EjerciciosDePrueba1\EjerciciosDePrueba1\obj\Debug\net8.0\EjerciciosDePrueba1.AssemblyInfoInputs.cache
+C:\Users\joaag\OneDrive\Escritorio\2do TSDS\Programacion2024\Programacion1\EjerciciosDePrueba1\EjerciciosDePrueba1\obj\Debug\net8.0\EjerciciosDePrueba1.AssemblyInfo.cs
+C:\Users\joaag\OneDrive\Escritorio\2do TSDS\Programacion2024\Programacion1\EjerciciosDePrueba1\EjerciciosDePrueba1\obj\Debug\net8.0\EjerciciosDePrueba1.csproj.CoreCompileInputs.cache
+C:\Users\joaag\OneDrive\Escritorio\2do TSDS\Programacion2024\Programacion1\EjerciciosDePrueba1\EjerciciosDePrueba1\bin\Debug\net8.0\EjerciciosDePrueba1.exe
+C:\Users\joaag\OneDrive\Escritorio\2do TSDS\Programacion2024\Programacion1\EjerciciosDePrueba1\EjerciciosDePrueba1\bin\Debug\net8.0\EjerciciosDePrueba1.deps.json
+C:\Users\joaag\OneDrive\Escritorio\2do TSDS\Programacion2024\Programacion1\EjerciciosDePrueba1\EjerciciosDePrueba1\bin\Debug\net8.0\EjerciciosDePrueba1.runtimeconfig.json
+C:\Users\joaag\OneDrive\Escritorio\2do TSDS\Programacion2024\Programacion1\EjerciciosDePrueba1\EjerciciosDePrueba1\bin\Debug\net8.0\EjerciciosDePrueba1.dll
+C:\Users\joaag\OneDrive\Escritorio\2do TSDS\Programacion2024\Programacion1\EjerciciosDePrueba1\EjerciciosDePrueba1\bin\Debug\net8.0\EjerciciosDePrueba1.pdb
+C:\Users\joaag\OneDrive\Escritorio\2do TSDS\Programacion2024\Programacion1\EjerciciosDePrueba1\EjerciciosDePrueba1\obj\Debug\net8.0\EjerciciosDePrueba1.dll
+C:\Users\joaag\OneDrive\Escritorio\2do TSDS\Programacion2024\Programacion1\EjerciciosDePrueba1\EjerciciosDePrueba1\obj\Debug\net8.0\refint\EjerciciosDePrueba1.dll
+C:\Users\joaag\OneDrive\Escritorio\2do TSDS\Programacion2024\Programacion1\EjerciciosDePrueba1\EjerciciosDePrueba1\obj\Debug\net8.0\EjerciciosDePrueba1.pdb
+C:\Users\joaag\OneDrive\Escritorio\2do TSDS\Programacion2024\Programacion1\EjerciciosDePrueba1\EjerciciosDePrueba1\obj\Debug\net8.0\EjerciciosDePrueba1.genruntimeconfig.cache
+C:\Users\joaag\OneDrive\Escritorio\2do TSDS\Programacion2024\Programacion1\EjerciciosDePrueba1\EjerciciosDePrueba1\obj\Debug\net8.0\ref\EjerciciosDePrueba1.dll

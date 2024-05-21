@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "AgIxnPoCFEvaOmzLj3YTjHkKHoSM0Y8MRh86GPeBVRTTdN7TM227K9iHUoAV12wgPf/6jJGKPF0gfsxBTctrMQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\joaag\\OneDrive\\Escritorio\\2do TSDS\\Programacion2024\\Programacion1\\EjerciciosDePrueba1\\EjerciciosDePrueba1\\EjerciciosDePrueba1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\joaag\\.nuget\\packages\\microsoft.dotnet.ilcompiler\\8.0.5\\microsoft.dotnet.ilcompiler.8.0.5.nupkg.sha512",
+    "C:\\Users\\joaag\\.nuget\\packages\\microsoft.net.illink.tasks\\8.0.5\\microsoft.net.illink.tasks.8.0.5.nupkg.sha512",
+    "C:\\Users\\joaag\\.nuget\\packages\\runtime.win-x64.microsoft.dotnet.ilcompiler\\8.0.5\\runtime.win-x64.microsoft.dotnet.ilcompiler.8.0.5.nupkg.sha512"
+  ],
+  "logs": []
+}
